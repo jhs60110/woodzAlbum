@@ -27,5 +27,5 @@ public class MainController {
 //        model.addAttribute("mainPh", mainPh);
         return "/index";
     }
-    
+
 }
